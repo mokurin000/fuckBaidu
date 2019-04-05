@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f /usr/bin/BaiduPCS-Go ]&&[ o$* != o-h ]||[ o$* != o--help ]
+if [ -f /usr/bin/BaiduPCS-Go ]&&[ o$* != o ]
 then	BaiduPCS-Go config set -appid=266719 &> /dev/null
 	BaiduPCS-Go cp "${@}" /apps/baidu_shurufa &> /dev/null
 	BaiduPCS-Go config set -appid=265486 &> /dev/null
