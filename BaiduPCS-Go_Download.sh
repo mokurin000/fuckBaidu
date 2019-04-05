@@ -8,11 +8,11 @@ then	BaiduPCS-Go config set -appid=266719 &> /dev/null
 	BaiduPCS-Go rm /apps/baidu_shurufa/* &> /dev/null
 	BaiduPCS-Go config set -appid=266719 &> /dev/null
 else	echo 使用方法： $0 文件路径
-	if [ ! -f ~/exist_dir ]
-	BaiduPCS-Go config set -appid=266719 &> /dev/null
-	BaiduPCS-Go mkdir /apps/baidu_shurufa &> /dev/null
-	echo 所需文件夹已建立！
-	touch ~/exist_dir
+	if [ ! -f ~/.exist_dir ]
+	then	BaiduPCS-Go config set -appid=266719 &> /dev/null
+		BaiduPCS-Go mkdir /apps/baidu_shurufa &> /dev/null
+		echo 所需文件夹已建立！
+		touch ~/.exist_dir
 	fi
 	echo 请创建链接或使/usr/bin/BaiduPCS-Go链接到二进制可执行文件
 fi
