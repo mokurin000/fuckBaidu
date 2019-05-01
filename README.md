@@ -7,8 +7,10 @@ bat不包含创建文件夹
 
 所以windows用户还可以手动执行
 
-`BaiduPCS-Go config set -appid=266719`
+```
+BaiduPCS-Go mkdir /apps/baidu_shurufa`
+```
 
-以及
+然后windows用户要确保PATH配置为可以BaiduPCS-Go直接执行
 
-`BaiduPCS-Go mkdir /apps/baidu_shurufa`
+或者新建BaiduPCS-Go.exe的快捷方式重命名为BaiduPBS-Go再扔进C:\Windows\
