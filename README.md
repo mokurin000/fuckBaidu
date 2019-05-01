@@ -14,3 +14,5 @@ BaiduPCS-Go mkdir /apps/baidu_shurufa
 然后windows用户要确保PATH配置为可以BaiduPCS-Go直接执行
 
 或者新建BaiduPCS-Go.exe的快捷方式重命名为BaiduPBS-Go再扔进C:\Windows\
+
+https://www.coolapk.com/feed/9784319 酷安原方案分享动态
