@@ -8,7 +8,7 @@ bat不包含创建文件夹
 所以windows用户还可以手动执行
 
 ```
-BaiduPCS-Go mkdir /apps/baidu_shurufa`
+BaiduPCS-Go mkdir /apps/baidu_shurufa
 ```
 
 然后windows用户要确保PATH配置为可以BaiduPCS-Go直接执行
