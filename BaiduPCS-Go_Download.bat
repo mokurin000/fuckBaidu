@@ -1,5 +1,4 @@
-﻿@echo off
-echo 请检索文件路径
+@echo off
 BaiduPCS-Go config set -appid=266719
 BaiduPCS-Go web
 set /p file=
