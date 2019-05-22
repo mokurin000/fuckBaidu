@@ -1,6 +1,8 @@
 # BaiduPCS-Go-easy2use
 下载百度云盘文件所用的脚本。
 
+<b>已经失效</b>
+
 bat不包含创建文件夹
 
 原因？当然是不会写bat不会写判断啊
@@ -16,3 +18,5 @@ BaiduPCS-Go mkdir /apps/baidu_shurufa
 或者新建BaiduPCS-Go.exe的快捷方式重命名为BaiduPCS-Go再扔进C:\Windows\并修改批处理文件加上".lnk"
 
 https://www.coolapk.com/feed/9784319 酷安原方案分享动态
+
+
