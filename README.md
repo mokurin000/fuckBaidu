@@ -1,7 +1,5 @@
 # BaiduPCS-Go-easy2use
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://raw.githubusercontent.com/poly000/BaiduPCS-Go-easy2use/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
 下载百度云盘文件所用的脚本。
 
 部分用户已经失效，开通超会可以解决，且开通超会则不需要该脚本
