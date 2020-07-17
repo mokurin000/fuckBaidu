@@ -1,4 +1,4 @@
-# BaiduPCS-Go-easy2use
+# fuckBaidu
 
 ___脚本已经无用，这里会挂一些最新消息___
 
