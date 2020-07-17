@@ -2,7 +2,7 @@
 
 ___方法已经失效，待作者得知新的方法后可能更新___
 
-___作者已经跑去用 [PanDownload](https://www.pandownload.com) 和 [SpeedPanX](https://www.speedpan.com/)，故可能不再更新___
+___作者已经跑去用 [PanDownload](https://www.pandownload.com) 和 [SpeedPanX](https://www.speedx.com/)，故可能不再更新___
 
 下载百度云盘文件所用的脚本。
 
