@@ -2,7 +2,7 @@
 
 ___脚本已经无用，这里会挂一些最新消息___
 
-___作者已经跑去用 [PanDownload](https://www.pandownload.com) 和 [SpeedPanX](https://www.speedx.com/)，故不再更新___
+___作者已经跑去用 [PanDownload](https://www.pandownload.com) 和 [SpeedPanX](https://www.supanx.com/)，故不再更新___
 
 
 看到了一个BaiduPCS-Go的[fork](https://github.com/felixonmars/BaiduPCS-Go)。
