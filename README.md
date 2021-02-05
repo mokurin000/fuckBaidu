@@ -7,4 +7,4 @@ ___作者已经跑去用 [PanDownload](https://www.pandownload.com) 和 [SpeedPa
 
 如今SpeedPan和Pandownload都挂了
 
-[卢本伟PanDownload](https://kurukurumi.tk/)似乎可以用，推荐[kinhdown](https://kinhdown.kinh.cc/)，我跑了33MiB/s
+[kinhdown](https://kinhdown.kinh.cc/)，我跑了33MiB/s，但发现[这个视频](https://www.bilibili.com/video/av330566183/)，据说作者人品很差
